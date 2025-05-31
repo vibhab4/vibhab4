@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Vibha Bhavikatti</h1>
 
 <p align="center">
-  <strong>Machine Learning & Backend Engineer</strong> — LLM Integration • Frontend Dev • CI/CD Automation  
+  <strong>Software Development & Machine Learning Engineer</strong> — LLM Integration • Frontend Dev • CI/CD Automation  
 </p>
 
 <p align="center">
-  📍 San Francisco, California · 💼 vibha.bhavikatti@sjsu.edu · 🌐 <a href="https://github.com/vibhab4">GitHub</a> · <a href="https://www.linkedin.com/in/vibha-bhavikatti/">LinkedIn</a>
+  📍 San Francisco, California · 💼 vibha.bhavikatti@gmail.com · 🌐 <a href="https://github.com/vibhab4">GitHub</a> · <a href="https://www.linkedin.com/in/vibha-bhavikatti/">LinkedIn</a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 🎓 CS Graduate Student @ **San José State University**  
 🧠 Passionate about **ML**, **LLMs**, **Backend Systems**, and **DevOps**  
-🚀 Seeking **SWE internships (CPT eligible)** and **New Grad roles**  
+🚀 Seeking **SWE/MLE** Internships and **New Grad roles**  
 🏆 1st place 🇦🇪 + 6th place 🌍 in the NASA-JAXA **KIBO Robot Programming Competition**
 
 ---
