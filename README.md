@@ -44,23 +44,23 @@
 
 ## 🚀 Featured Projects
 
-### 🛑 [Traffic Sign Detection & Localization]
+### 🛑 Traffic Sign Detection & Localization
 YOLOv3/YOLOv8 + GCP-based web app for object detection with geo-mapping and metadata.  
 > 🥇 mAP@0.5 = 96.1% | Image de-duplication | Real-time inference  
 
-### 📰 [AI-Powered News Bias & Sentiment Analyzer](https://github.com/vibhab4)
+### 📰 [AI-Powered News Bias & Sentiment Analyzer](https://github.com/JakobKauffmann/nlp-capstone)
 Flask NLP app using RoBERTa, LLaMA 3, PoliticalBiasBERT, and LLM summarization via Hugging Face.  
 > 🌐 Web scraping | Real-time REST APIs | LLM-based summaries  
 
-### 🔮 [Forecasting Protests with WORLDREP](https://github.com/vibhab4)
+### 🔮 [Forecasting Protests with WORLDREP](https://github.com/ZhuoqunWei/WORLDREP_Event_Predicting)
 Time-series forecasting using LSTM/Transformer models on sentiment-enriched news.  
-> 🧠 Engineered sentiment/polarity features | 0.60 F1-score  
+> 🧠 Engineered sentiment/polarity features | 0.60 F1-score (beating benchmark scores with lesser computational resources)
 
-### ⚙️ [CodeForge – Daily Coding Platform](https://github.com/vibhab4)
+### ⚙️ [CodeForge – Daily Coding Platform](https://github.com/vibhab4/quizapp)
 Full-stack app using React + Firebase to deliver daily coding problems with progress tracking.  
 > 🧪 CI/CD via GitHub Actions | Dockerized | Cypress + Vitest tests  
 
-### 🧬 [COVID-19 Chest X-ray Classifier (Hackathon)]
+### 🧬 COVID-19 Chest X-ray Classifier (Hackathon)
 CNN model detecting COVID-19 from X-ray images.  
 > 🥈 4th Place | 97.21% accuracy | Built in 48 hours  
 
