@@ -26,10 +26,16 @@
 
 ## 💼 Experience
 
+**Technical Advisor Intern - GenAI**
+*Scale AI* - Aug 2025 - Present
+- Evaluated LLM reasoning and failure modes at scale; contributed structured insights to improve generative AI reliability and integration into developer workflows.
+- Designed prompt variations and agent-style evaluation tasks to analyze model behavior under edge cases and ambiguous user input.
+- Developed simulation-based pipelines and custom metrics to automate evaluation of LLM outputs, enabling large-scale analysis of AI performance; used Selenium and Locust for task automation and workflow testing.
+
 **Information Technology Intern**  
 *Emirates Fast Food Co. (McDonald’s UAE)* – Jun 2023 – Jul 2023  
-- Resolved IT support tickets using Ivanti  
-- Worked on automation tools, software testing, and product pricing DBs  
+- Resolved IT support tickets via the Ivanti service desk and automated database workflows, improving system uptime by∼10%.
+- Assisted with database management, automation tools, and product pricing workflows.  
 
 **Teaching Assistant**  
 *American University of Sharjah* – Multiple Semesters  
@@ -38,7 +44,7 @@
 
 **GDSC Non-Technical Core Lead**  
 *Google Developer Student Club (AUS)* – Jun 2023 – Jul 2023  
-- Boosted club participation by 20% through events & social media strategy  
+- Mentored 100+ students in Programming I, Programming Languages and Digital Systems; provided hands-on support in lab sessions and code reviews. Assisted professors with grading, documentation, debugging, and course support across 4 semesters.  
 
 ---
 
@@ -96,7 +102,7 @@ Hadoop, Spark, Hive, ETL pipelines, Data Modeling, Ingestion, Distributed System
 
 ## 📬 Let's Connect
 
-- 📧 Email: [vibha.bhavikatti@gmail.com](mailto:vibha.bhavikatti@gmail.com)  
+- 📧 Email: [vibha.bhavikatti@sjsu.edu](mailto:vibha.bhavikatti@sjsu.edu)  
 - 🔗 LinkedIn: [linkedin.com/in/vibha-bhavikatti](https://linkedin.com/in/vibha-bhavikatti)  
 - 💻 GitHub: [github.com/vibhab4](https://github.com/vibhab4)
 
