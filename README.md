@@ -26,7 +26,8 @@
 
 ## 💼 Experience
 
-**Technical Advisor Intern - GenAI**
+**Technical Advisor Intern - GenAI** 
+
 *Scale AI*  (Aug 2025 - Present)
 - Evaluated LLM reasoning and failure modes at scale; contributed structured insights to improve generative AI reliability and integration into developer workflows.
 - Designed prompt variations and agent-style evaluation tasks to analyze model behavior under edge cases and ambiguous user input.
