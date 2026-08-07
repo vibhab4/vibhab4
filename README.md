@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Vibha Bhavikatti</h1>
+<h1 align="center"> Hi, I'm Vibha Bhavikatti</h1>
 
 <p align="center">
-  <strong>Software Development & Machine Learning Engineer</strong> — LLM Integration • Frontend Dev • CI/CD Automation  
+  <strong>Software Development & Machine Learning Engineer</strong> — LLM Integration • AI Security  
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 🎓 CS Graduate Student @ **San José State University**  
-🧠 Passionate about **ML**, **LLMs**, **Backend Systems**, and **DevOps**  
+🧠 Passionate about **ML**, **LLMs**, **Backend Systems**, and **Security**  
 🚀 Seeking **SWE/MLE** Internships and **New Grad roles**  
 🏆 1st place 🇦🇪 + 6th place 🌍 in the NASA-JAXA **KIBO Robot Programming Competition**
 
@@ -24,56 +24,51 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Technical Advisor Intern - GenAI** 
 
 *Scale AI*  (Aug 2025 - Present)
-- Evaluated LLM reasoning and failure modes at scale; contributed structured insights to improve generative AI reliability and integration into developer workflows.
-- Designed prompt variations and agent-style evaluation tasks to analyze model behavior under edge cases and ambiguous user input.
-- Developed simulation-based pipelines and custom metrics to automate evaluation of LLM outputs, enabling large-scale analysis of AI performance; used Selenium and Locust for task automation and workflow testing.
+• Built evaluation pipelines to analyze LLM outputs, identifying failure patterns, safety risks, and prompt injection vulnerabilities, and
+performed root-cause analysis to improve reliability and consistency across edge cases.
+• Delivered 10+ high-priority evaluation tasks under tight timelines, consistently completing rapid-turnaround projects to support
+model validation and deployment readiness.
+• Led technical reviews across a team of 4 interns, improving evaluation quality, and test coverage.
+• Developed automated workflows using Selenium and Locust to simulate real-world usage and adversarial inputs, enabling large-scale
+evaluation of model behavior.
 
 **Information Technology Intern**  
 *Emirates Fast Food Co. (McDonald’s UAE)*  (Jun 2023 – Jul 2023) 
 - Resolved IT support tickets via the Ivanti service desk and automated database workflows, improving system uptime by∼10%.
 - Assisted with database management, automation tools, and product pricing workflows.  
 
-**Teaching Assistant**  
-*American University of Sharjah* – Multiple Semesters  
-- Conducted Programming I lab sessions for 30+ students  
-- Graded Programming I and Digital Systems courses under 3 professors  
-
-**GDSC Non-Technical Core Lead**  
-*Google Developer Student Club (AUS)*  (Jun 2023 – Jul 2023)  
-- Mentored 100+ students in Programming I, Programming Languages and Digital Systems; provided hands-on support in lab sessions and code reviews. Assisted professors with grading, documentation, debugging, and course support across 4 semesters.  
-
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛑 Traffic Sign Detection & Localization
+### Traffic Sign Detection & Localization
 YOLOv3/YOLOv8 + GCP-based web app for object detection with geo-mapping and metadata.  
 > 🥇 mAP@0.5 = 96.1% | Image de-duplication | Real-time inference  
 
-### 📰 [AI-Powered News Bias & Sentiment Analyzer](https://github.com/JakobKauffmann/nlp-capstone)
+### [AI-Powered News Bias & Sentiment Analyzer](https://github.com/JakobKauffmann/nlp-capstone)
 Flask NLP app using RoBERTa, LLaMA 3, PoliticalBiasBERT, and LLM summarization via Hugging Face.  
 > 🌐 Web scraping | Real-time REST APIs | LLM-based summaries  
 
-### 🔮 [Forecasting Protests with WORLDREP](https://github.com/ZhuoqunWei/WORLDREP_Event_Predicting)
+### [Forecasting Protests with WORLDREP](https://github.com/ZhuoqunWei/WORLDREP_Event_Predicting)
 Time-series forecasting using LSTM/Transformer models on sentiment-enriched news.  
 > 🧠 Engineered sentiment/polarity features | 0.60 F1-score (beating benchmark scores with lesser computational resources)
 
-### ⚙️ [CodeForge – Daily Coding Platform](https://github.com/vibhab4/quizapp)
+### [CodeForge – Daily Coding Platform](https://github.com/vibhab4/quizapp)
 Full-stack app using React + Firebase to deliver daily coding problems with progress tracking.  
 > 🧪 CI/CD via GitHub Actions | Dockerized | Cypress + Vitest tests  
 
-### 🧬 COVID-19 Chest X-ray Classifier (Hackathon)
+### COVID-19 Chest X-ray Classifier (Hackathon)
 CNN model detecting COVID-19 from X-ray images.  
 > 🥈 4th Place | 97.21% accuracy | Built in 48 hours  
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Languages:**  
 Python, C++, JavaScript, Java, SQL, R, Rust, TypeScript, MATLAB, HTML/CSS, Bash
@@ -92,7 +87,7 @@ Hadoop, Spark, Hive, ETL pipelines, Data Modeling, Ingestion, Distributed System
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vibhab4&show_icons=true&theme=tokyonight" />
@@ -101,13 +96,13 @@ Hadoop, Spark, Hive, ETL pipelines, Data Modeling, Ingestion, Distributed System
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-- 📧 Email: [vibha.bhavikatti@sjsu.edu](mailto:vibha.bhavikatti@sjsu.edu)  
-- 🔗 LinkedIn: [linkedin.com/in/vibha-bhavikatti](https://linkedin.com/in/vibha-bhavikatti)  
-- 💻 GitHub: [github.com/vibhab4](https://github.com/vibhab4)
+- Email: [vibha.bhavikatti@sjsu.edu](mailto:vibha.bhavikatti@sjsu.edu)  
+- LinkedIn: [linkedin.com/in/vibha-bhavikatti](https://linkedin.com/in/vibha-bhavikatti)  
+- GitHub: [github.com/vibhab4](https://github.com/vibhab4)
 
 ---
 
-✨ *Thanks for stopping by!*
+ *Thanks for stopping by!*
 
