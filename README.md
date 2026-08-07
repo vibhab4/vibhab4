@@ -29,12 +29,12 @@
 **Technical Advisor Intern - GenAI** 
 
 *Scale AI*  (Aug 2025 - Present)
-• Built evaluation pipelines to analyze LLM outputs, identifying failure patterns, safety risks, and prompt injection vulnerabilities, and
+- Built evaluation pipelines to analyze LLM outputs, identifying failure patterns, safety risks, and prompt injection vulnerabilities, and
 performed root-cause analysis to improve reliability and consistency across edge cases.
-• Delivered 10+ high-priority evaluation tasks under tight timelines, consistently completing rapid-turnaround projects to support
+- Delivered 10+ high-priority evaluation tasks under tight timelines, consistently completing rapid-turnaround projects to support
 model validation and deployment readiness.
-• Led technical reviews across a team of 4 interns, improving evaluation quality, and test coverage.
-• Developed automated workflows using Selenium and Locust to simulate real-world usage and adversarial inputs, enabling large-scale
+- Led technical reviews across a team of 4 interns, improving evaluation quality, and test coverage.
+- Developed automated workflows using Selenium and Locust to simulate real-world usage and adversarial inputs, enabling large-scale
 evaluation of model behavior.
 
 **Information Technology Intern**  
